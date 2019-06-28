@@ -1,9 +1,4 @@
-# Scripts
-
-This folder contains code implementation of DeepSeqPan.
-Also it has script to load model and do prediction.
-
-- model.py: Defines the network structure of DeepSeqPan
+- model.py: Defines the network structure
 - train.py: Training a new model
 - eval.py: Evaluate a model
 - model_arch.png: Model network arch
